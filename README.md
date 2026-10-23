@@ -6,7 +6,7 @@ Currently dual-booting Arch Linux alongside Windows and slowly getting comfortab
 
 I'm mainly drawn to systems-level/low-level programming — not frontend, and not even backend web development, just how things work closer to the hardware and the OS.
 
-Most of my projects involve AI inspiration, reference, or direct AI assistance in some form — I'm upfront about that rather than pretending otherwise.
+Some of my projects involve AI inspiration, reference, or direct AI assistance in some form — I'm upfront about that rather than pretending otherwise.
 
 ---
 
