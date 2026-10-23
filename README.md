@@ -11,11 +11,11 @@ Most of my projects involve AI inspiration, reference, or direct AI assistance i
 ---
 
 ### 🏁 Where it started
-
-The first three projects I ever worked on, oldest to newest. All of them are archived publicly now, kept around as nostalgic, antique pieces:
-
+ 
+The first three projects I ever worked on, oldest to the least oldest. All of them are kept around as nostalgic, antique pieces:
+ 
 1. **[Script-it-is](https://github.com/MR-UNKNOWN74IDK/Script-it-is)**
-2. **[RobloxStudio-Engine-ReverseEngineering](https://github.com/MR-UNKNOWN74IDK/RobloxStudio-Engine-ReverseEngineering)**
+2. *Private* — kept as a private archive instead of public, out of respect for a third party's intellectual property.
 3. **[hacker-tool](https://github.com/MR-UNKNOWN74IDK/hacker-tool)**
 
 ---
