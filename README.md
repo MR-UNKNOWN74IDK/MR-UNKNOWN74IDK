@@ -2,7 +2,7 @@
 
 I got into programming through Roblox — started out tinkering with Luau/Lua scripts, and that curiosity eventually pulled me into GitHub, systems programming, and a growing interest in computer science and electrical engineering.
 
-Currently dual-booting Arch Linux alongside Windows and slowly getting comfortable outside my comfort zone.
+Currently dual-booting EndeavourOS alongside Windows and slowly getting comfortable outside my comfort zone.
 
 I'm mainly drawn to systems-level/low-level programming — not frontend, and not even backend web development, just how things work closer to the hardware and the OS.
 
@@ -35,7 +35,7 @@ The first three projects I ever worked on, oldest to the least oldest. All of th
 
 **OS**
 
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![EndevaourOS|basically Arch Linux](https://gist.githubusercontent.com/MR-UNKNOWN74IDK/d45d4187c848838ad64254d0ba1d2723/raw/2f9b43375204df8b0485de819897c433c7fc5e20/EndeavourOS%257CbasicallyArchLinux.svg)
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)
 
 ---
